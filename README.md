@@ -8,7 +8,6 @@
 <div>
 <img src="https://vk.com/doc460285937_597878169?hash=fe973ffd4e0c1e732c&dl=8fc9cd2eda4209087b">
   <p>This is a report generator. It was created by me and my friend <a href="https://github.com/aleksey-satir">aleksey-satir</a> to pay attention to really important things in computer science classes instead of writing useless reports.</p>
-  <img src="https://psv4.userapi.com/c537232/u460285937/docs/d43/3c425974ba02/ezgif_com-gif-maker.gif?extra=lQCc1B8E0zAIO4JyMjug_5OzF34mGnMeDe4yS33UBfIm2PG52qFyyYj_yRFbTg6GoZpDN-CCeH9WbrYj40ndwzpUegyGe_S8gwhod4_348jLKVlMNMakM899NBAIgkmmk-NBJhhvZB6lYHn6MX-L5d1h0Q">
 </div>
 
 <h2>Languages and Tools</h2>
