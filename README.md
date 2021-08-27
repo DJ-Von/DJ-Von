@@ -4,12 +4,6 @@
 ![Header](https://thumbs.gfycat.com/BraveOptimalBaleenwhale-size_restricted.gif)
 <br/>
 
-<h2>Projects</h2>
-<div>
-<img src="https://vk.com/doc460285937_597878169?hash=fe973ffd4e0c1e732c&dl=8fc9cd2eda4209087b">
-  <p>This is a report generator. It was created by me and my friend <a href="https://github.com/aleksey-satir">aleksey-satir</a> to pay attention to really important things in computer science classes instead of writing useless reports.</p>
-</div>
-
 <h2>Languages and Tools</h2>
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
