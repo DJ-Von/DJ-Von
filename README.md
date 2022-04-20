@@ -16,3 +16,5 @@
 ![ST](https://img.shields.io/badge/-Sublime_Text-000?style=for-the-badge&logo=sublime-text)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJ-Von)](https://github.com/anuraghazra/github-readme-stats)
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+
