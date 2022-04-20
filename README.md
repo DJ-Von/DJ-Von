@@ -15,3 +15,4 @@
 ![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask)
 ![ST](https://img.shields.io/badge/-Sublime_Text-000?style=for-the-badge&logo=sublime-text)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJ-Von)](https://github.com/anuraghazra/github-readme-stats)
