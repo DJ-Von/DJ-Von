@@ -1,4 +1,4 @@
-<h1 style="color:red;" align="center">Hello!</h1>
+<h1 align="center">Hello!</h1>
 <p align="center">Here is some information about me.</p>
 
 ![Header](https://thumbs.gfycat.com/BraveOptimalBaleenwhale-size_restricted.gif)
